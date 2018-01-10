@@ -1,1 +1,3 @@
-# COMP-4711-lab-1
+COMP4711 Lab 1
+
+This is a repo
